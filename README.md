@@ -11,6 +11,7 @@ https://taratang2003.github.io/
 🚀Here are the programming languages I'm using ...<br/><br/>
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
+[![](https://img.shields.io/badge/-Java-#497293?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.com)
 <br/><br/>
 ⚓Here are the aspects I'm working at...<br/><br/>
 [![](https://img.shields.io/badge/-pytorch-D2691E?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
