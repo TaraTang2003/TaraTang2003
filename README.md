@@ -25,6 +25,7 @@ https://taratang2003.github.io/
 [![](https://img.shields.io/badge/-pycharm-708090?style=for-the-badge&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![](https://img.shields.io/badge/-vscode-4682B4?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-hbuilder-006400?style=for-the-badge)](https://www.dcloud.io/)
+[![](https://img.shields.io/badge/-Intellij-E072C9?style=for-the-badge&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com)
 <br/><br/>
 
 
