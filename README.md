@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+Weilcome to Cosmo's Kingdom
+https://taratang2003.github.io/
+
 🥂Nice to meet you! <br/>
 🙋‍♀️This is an undergaraduate majoring in CS. <br/>
-💫The most thing in my life are music, traveling and programming.<br/>
+💫The 3 most thing in my life : music, traveling and programming.<br/>
 💖Hoping that I am lucky enough to receive your suggestions and agreement.
 
 🚀Here are the programming languages I'm using ...<br/><br/>
