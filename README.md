@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Weilcome to Cosmo's Kingdom <br/>
+Weilcome to Cosmo's Kingdom! <br/>
 https://taratang2003.github.io/
 
 🥂Nice to meet you! <br/>
